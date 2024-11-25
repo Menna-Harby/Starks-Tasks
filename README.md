@@ -8,7 +8,7 @@
 
 # Week 1: **C Programming Basics**  
 ### Reference:  
-- [Detailed Week 1 Overview](https://github.com/Menna-Harby/Starks-Task/blob/master/Week1.md)  
+- [Detailed Week 1 Overview](https://github.com/Menna-Harby/Starks-Embedded_Tasks/blob/main/Week1/README.md)  
 
 ### Primary Materials:  
 - [Starks Materials - Google Drive](https://drive.google.com/drive/folders/1nYZKlPL1n-9xB4HjB5nxZYwynVGl9ma4)  
