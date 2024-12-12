@@ -16,3 +16,13 @@
 ### Extra Materials:  
 - [C Building/Compilation Process using GNU ARM Toolchain](https://www.linkedin.com/pulse/buildingcompilation-process-using-gnu-arm-toolchain-mohamed-ali/)  
 - [Operators in C - LogicMojo](https://logicmojo.com/operators-in-c)  
+
+---
+
+# Week 2: **Conditions & Loops**
+
+
+---
+
+# Week 3: **Function & Storage classes**
+
