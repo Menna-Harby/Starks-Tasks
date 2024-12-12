@@ -15,7 +15,10 @@
 
 ### Extra Materials:  
 - [C Building/Compilation Process using GNU ARM Toolchain](https://www.linkedin.com/pulse/buildingcompilation-process-using-gnu-arm-toolchain-mohamed-ali/)  
-- [Operators in C - LogicMojo](https://logicmojo.com/operators-in-c)  
+- [Operators in C - LogicMojo](https://logicmojo.com/operators-in-c)
+
+ ### Quiz 1:
+ - [Quiz 1]([https://logicmojo.com/operators-in-c](https://docs.google.com/forms/d/e/1FAIpQLSddyfEUQGm8AuYBz071_kzhr87QOWfFewed-ppxb8_xVVhYJQ/viewform?pli=1))
 
 ---
 
