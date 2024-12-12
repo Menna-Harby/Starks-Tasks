@@ -20,9 +20,26 @@
 ---
 
 # Week 2: **Conditions & Loops**
+### Reference:  
+- [Detailed Week 2 Overview]()  
+
+### Primary Materials:  
+- [Starks Materials - Google Drive](https://drive.google.com/drive/folders/1DjE07zo91HH8JXh3ZEiKUNG9cog0TEkm?usp=drive_link)  
+- [Neso(37>>60)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)  
+
+### Extra Materials:  
 
 
 ---
 
 # Week 3: **Function & Storage classes**
+### Reference:  
+- [Detailed Week 3 Overview]()  
+
+### Primary Materials:  
+- [Starks Materials - Google Drive](https://drive.google.com/drive/folders/1quyiGh6vKF8iIH_xHsOZLxfHjbMcMrMn?usp=drive_link)
+- [Neso(61>>85)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR) 
+
+### Extra Materials:  
+
 
