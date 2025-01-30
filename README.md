@@ -1,4 +1,4 @@
-# Starks Course
+# Starks-Embedded Course
 
 # Week 0: **Git & GitHub**  
 ### Resource:  
