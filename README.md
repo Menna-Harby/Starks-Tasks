@@ -32,6 +32,9 @@
 
 ### Extra Materials:  
 
+### Quiz 2: 
+- [Quiz 2](https://docs.google.com/forms/d/e/1FAIpQLScT3hgdSlQ91LEP5bucNszzm9T9xbyemXnhpZomGcTbfqFFIw/viewform)
+
 
 ---
 
@@ -44,5 +47,8 @@
 - [Neso(61>>85)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR) 
 
 ### Extra Materials:  
+
+### Quiz 3:
+- [Quiz 3](https://docs.google.com/forms/d/e/1FAIpQLSdjF5gU6zXJZWvt5rFV0JeKSYVRVYq6rXVROO9-kEtUodqe0w/viewform)
 
 
