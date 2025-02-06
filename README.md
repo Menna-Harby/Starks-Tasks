@@ -52,3 +52,18 @@
 - [Quiz 3](https://docs.google.com/forms/d/e/1FAIpQLSdjF5gU6zXJZWvt5rFV0JeKSYVRVYq6rXVROO9-kEtUodqe0w/viewform)
 
 
+---
+
+# Week 4: **Array & Strings**
+### Reference:  
+- [Detailed Week 4 Overview]()  
+
+### Primary Materials:  
+- [Starks Materials - Google Drive](https://drive.google.com/drive/folders/1kByxm_9A6X2tgQtZMonOpEUU66YY4OHo)
+- [Neso_Array(85>>100)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR) 
+- [Neso_String(128>>149)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)
+    
+### Extra Materials:  
+
+### Quiz 3:
+- [Quiz 4]()
