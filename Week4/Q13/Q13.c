@@ -33,6 +33,7 @@ int main() {
         }
     }
 
+    // Calculate the average grade
     float average = total / totalStudents;
 
     printf("Num of passed students: %d\n", passed);
